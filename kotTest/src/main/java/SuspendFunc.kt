@@ -3,8 +3,8 @@ import kotlin.system.measureTimeMillis
 
 //[새차원, 코틀린 코루틴(Coroutines)] 4. Composing Suspending Functions
 fun main(){
-    sequentialTest() //마법코드
-    //asyncTest()
+    //sequentialTest() //마법코드
+    asyncTest()
     //asyncLazyTest()
 }
 
@@ -45,7 +45,7 @@ fun asyncLazyTest() = runBlocking {
     println("Completed in $time ms")
 }
 
-//마법같은 코드.
+//마법같은 코드. (coroutine 1개 기준)
 //비동기 함수를 순차적으로 작성했더니..순차실행이 되며 결과도 문제없이 나온다.
 //그 동안 메인스레드의 ui를 block하지 않는다.
 fun sequentialTest() = runBlocking {
