@@ -51,7 +51,7 @@ fun asyncLazyTest() = runBlocking {
 fun sequentialTest() = runBlocking {
     println("main")
     val time = measureTimeMillis {
-        //코루틴 1개로순차실행인데 어떻게 ui의 block을 안막지...
+        //CPS 에 의해 callback 방식으로, 코드가 변환된다.
         val one = doSomethingUsefulOne()
         val two = doSomethingUsefulTwo()
         println("The answer is ${one + two}")
@@ -61,7 +61,9 @@ fun sequentialTest() = runBlocking {
 
 suspend fun doSomethingUsefulOne(): Int{
     println("start one")
+    //시간이 걸리는 일을 수행하는동안 coroutine 이 중단된다.
     delay(1000L)
+    //작업이 끝나면 해당 coroutine 이 재개된다. (Resume)
     println("end one")
     return 10
 }
