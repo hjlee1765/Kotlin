@@ -26,6 +26,7 @@ suspend fun concurrentSum(): Int = coroutineScope {
     val one = async { doSomethingUsefulOne() }
     val two = async { doSomethingUsefulTwo() }
 
+    println("processing..")
 /*  delay(1000L)
     println("Exception")
     throw Exception()*/
