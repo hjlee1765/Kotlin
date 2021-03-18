@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47d6684a-633f-483a-a12e-64ec61277dc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/LinkedListCycle.kt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Kotlin/LongestCommonPrefix.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1puVClEUXWbgsOw29UMz22tHq00" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.LongestCommonPrefixKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListCycleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="mainModule" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListCycleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="mainModule" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefixKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefixKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="codingTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_14Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestCommonPrefixKt" />
+        <item itemvalue="Application._14Kt" />
+        <item itemvalue="Application.LinkedListCycleKt" />
+        <item itemvalue="Application.LongestCommonPrefixKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47d6684a-633f-483a-a12e-64ec61277dc8" name="Default Changelist" comment="" />
+      <created>1616032837207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616032837207</updated>
+      <workItem from="1616032838601" duration="11753000" />
+      <workItem from="1616049066497" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1058" y="566" key="#Project_Structure" timestamp="1616045256096">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1058" y="566" key="#Project_Structure/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616045256096" />
+    <state x="1058" y="546" key="#Project_Structure/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616043011942" />
+    <state width="1432" height="391" key="GridCell.Tab.0.bottom" timestamp="1616049319610">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1432" height="391" key="GridCell.Tab.0.bottom/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616049319610" />
+    <state width="1691" height="391" key="GridCell.Tab.0.bottom/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616041553798" />
+    <state width="1432" height="391" key="GridCell.Tab.0.center" timestamp="1616049319609">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1432" height="391" key="GridCell.Tab.0.center/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616049319609" />
+    <state width="1691" height="391" key="GridCell.Tab.0.center/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616041553798" />
+    <state width="1432" height="391" key="GridCell.Tab.0.left" timestamp="1616049319609">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1432" height="391" key="GridCell.Tab.0.left/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616049319609" />
+    <state width="1691" height="391" key="GridCell.Tab.0.left/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616041553797" />
+    <state width="1432" height="391" key="GridCell.Tab.0.right" timestamp="1616049319609">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1432" height="391" key="GridCell.Tab.0.right/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616049319609" />
+    <state width="1691" height="391" key="GridCell.Tab.0.right/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616041553798" />
+    <state width="1691" height="480" key="GridCell.Tab.1.bottom" timestamp="1616048705364">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1691" height="480" key="GridCell.Tab.1.bottom/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616048705364" />
+    <state width="1691" height="480" key="GridCell.Tab.1.bottom/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616038042455" />
+    <state width="1691" height="480" key="GridCell.Tab.1.center" timestamp="1616048705363">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1691" height="480" key="GridCell.Tab.1.center/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616048705363" />
+    <state width="1691" height="480" key="GridCell.Tab.1.center/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616038042455" />
+    <state width="1691" height="480" key="GridCell.Tab.1.left" timestamp="1616048705363">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1691" height="480" key="GridCell.Tab.1.left/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616048705363" />
+    <state width="1691" height="480" key="GridCell.Tab.1.left/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616038042454" />
+    <state width="1691" height="480" key="GridCell.Tab.1.right" timestamp="1616048705364">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state width="1691" height="480" key="GridCell.Tab.1.right/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616048705364" />
+    <state width="1691" height="480" key="GridCell.Tab.1.right/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616038042455" />
+    <state x="1878" y="412" key="SettingsEditor" timestamp="1616049114206">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1878" y="412" key="SettingsEditor/825.1463.1792.1045/0.23.3440.1417@0.23.3440.1417" timestamp="1616049114206" />
+    <state x="1878" y="398" key="SettingsEditor/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616033077198" />
+    <state x="1587" y="478" key="new project wizard" timestamp="1616042840957">
+      <screen x="0" y="23" width="3440" height="1365" />
+    </state>
+    <state x="1587" y="478" key="new project wizard/825.1463.1792.1097/0.23.3440.1365@0.23.3440.1365" timestamp="1616042840957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/LongestCommonPrefix.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
