@@ -92,4 +92,21 @@ internal class FlowTestClass{
                     .collect { println(it) }
         }
     }
+
+    @Test
+    fun flowTerminal(){
+        runBlocking {
+            val sum = (1..100000).asFlow()
+                    .reduce{a: Int, b: Int ->  a+b }
+
+            println(sum)
+        }
+    }
+
+    @Test
+    fun test(): Boolean {
+        return listOf(1..3).filter {
+            it.toString() == "1"
+        }.isNullOrEmpty()
+    }
 }
